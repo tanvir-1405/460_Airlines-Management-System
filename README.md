@@ -6,11 +6,17 @@ The goal of this project is to develop a graphical user interface (GUI) applicat
 The objective of this project is to design and implement a modern desktop application that enables seamless interaction with a MongoDB database. This will help users to efficiently insert, retrieve, update, and delete records while maintaining a clean and modern user interface.
 
 💻 Software and Hardware Requirements
-Software Requirements	Hardware Requirements
-Python 3.x	Laptop/PC with minimum 4GB RAM
-CustomTkinter	Dual-core processor
-PyMongo	500MB free disk space
+Software Requirements	
+Python 3.x	
+CustomTkinter
+PyMongo
 MongoDB (Community)	
+
+Hardware Requirements
+Laptop/PC with minimum 4GB RAM
+Dual-core processor
+500MB free disk space
+
 
 🛠 Technologies Used
 Python – Programming language for application logic
